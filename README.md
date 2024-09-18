@@ -14,6 +14,6 @@
 - Developing applications for the clinical context
 - Teaching computer classes for beginners
 
-## How to contact me?
+## How to contact me? 🗨️
 - Instagram @psi.gabrielsilva 
 - E-mail psi.gabrielssilva@gmail.com
