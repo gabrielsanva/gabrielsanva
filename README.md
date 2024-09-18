@@ -15,5 +15,5 @@
 - Teaching computer classes for beginners
 
 ## How to contact me? 🗨️
-- Instagram [@psi.gabrielsilva ](https://www.instragram.com/psi.gabrielsilva)
+- Instagram [@psi.gabrielsilva ](https://www.instagram.com/psi.gabrielsilva)
 - E-mail psi.gabrielssilva@gmail.com
